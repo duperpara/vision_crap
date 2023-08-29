@@ -1,0 +1,31 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# Log files
+*.log
+
+# Jupyter configuration file
+.jupyter/
+
+# PyCharm configuration files
+.idea/
+
+# User-specific IPython directories
+.ipython/
+
+# Cached data and local state of Spark jobs
+.spark-warehouse/
+*.log
+*.metastore_db/
+
+# Other system-generated files
+.DS_Store
+Thumbs.db
